@@ -1,0 +1,146 @@
+[
+  {
+      "Id": 1,
+      "Name": "Samsung Altr 51+ red ",
+      "Description": "هاتف ذكي رقم 1 بنظام Android، ذاكرة رام 12 جيجا، ذاكرة روم 256 جيجا - لون أسود هاتف رقم 1 بشاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش، مقاوم للماء والغبار، دعم الشحن اللاسلكي، معالج A15 بايونك.",
+      "Description2": [
+          "شاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش",
+          "معالج A15 بايونك قوي وسريع",
+          "دعم الشحن اللاسلكي والمقاومة للماء والغبار",
+          "ذاكرة رام 12 جيجا وذاكرة روم 256 جيجا",
+          "كاميرا ثلاثية بدقة 12 ميجا بكسل"
+      ],
+      "relatedproducts": [
+          50,
+          2
+      ],
+      "Price": 8100,
+      "ImagePath1": "https://m.media-amazon.com/images/I/614qsXB-XUL._AC_SX466_.jpg",
+      "ImagePath2": "https://m.media-amazon.com/images/I/51UsOCElDwL._AC_SL1500_.jpg",
+      "ImagePath3": "https://m.media-amazon.com/images/I/51Rw-Fg7fSL._AC_SL1500_.jpg",
+      "ImagePath4": "https://m.media-amazon.com/images/I/41FAkNh5T3L._AC_SL1500_.jpg",
+      "ImagePath5": null,
+      "ZoneAreas": null,
+      "Category": null
+  },
+  {
+      "Id": 2,
+      "Name": "iphone 13 pro",
+      "Description": "هاتف ذكي رقم 2 بنظام Android، ذاكرة رام 8 جيجا، ذاكرة روم 256 جيجا - لون أسود هاتف رقم 2 بشاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش، مقاوم للماء والغبار، دعم الشحن اللاسلكي، معالج A15 بايونك.",
+      "Description2": [
+          "شاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش",
+          "معالج A15 بايونك قوي وسريع",
+          "دعم الشحن اللاسلكي والمقاومة للماء والغبار",
+          "ذاكرة رام 8 جيجا وذاكرة روم 256 جيجا",
+          "كاميرا ثلاثية بدقة 12 ميجا بكسل"
+      ],
+      "relatedproducts": [
+          1,
+          3
+      ],
+      "Price": 8200,
+      "ImagePath1": "https://m.media-amazon.com/images/I/817xVeE4MiL._AC_SY300_SX300_.jpg",
+      "ImagePath2": "https://m.media-amazon.com/images/I/81IZB+3eHYL._AC_SL1500_.jpg",
+      "ImagePath3": "https://m.media-amazon.com/images/I/7116PnJIqEL._AC_SL1450_.jpg",
+      "ImagePath4": "https://m.media-amazon.com/images/I/61X8RMwdgbL._AC_SL1500_.jpg",
+      "ImagePath5": "https://m.media-amazon.com/images/I/61AuljnxCTL._AC_SL1500_.jpg",
+      "ZoneAreas": null,
+      "Category": null
+  },
+  {
+      "Id": 3,
+      "Name": "iphone 15",
+      "Description": "هاتف ذكي رقم 3 بنظام Android، ذاكرة رام 12 جيجا، ذاكرة روم 256 جيجا - لون أسود هاتف رقم 3 بشاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش، مقاوم للماء والغبار، دعم الشحن اللاسلكي، معالج A15 بايونك.",
+      "Description2": [
+          "شاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش",
+          "معالج A15 بايونك قوي وسريع",
+          "دعم الشحن اللاسلكي والمقاومة للماء والغبار",
+          "ذاكرة رام 12 جيجا وذاكرة روم 256 جيجا",
+          "كاميرا ثلاثية بدقة 12 ميجا بكسل"
+      ],
+      "relatedproducts": [
+          2,
+          4
+      ],
+      "Price": 8300,
+      "ImagePath1": "https://m.media-amazon.com/images/I/71xb2xkN5qL._AC_SL1500_.jpg",
+      "ImagePath2": "https://m.media-amazon.com/images/I/61d8XHJuE2L._AC_SL1500_.jpg",
+      "ImagePath3": "https://m.media-amazon.com/images/I/81junVbiuyL._AC_SL1500_.jpg",
+      "ImagePath4": "https://m.media-amazon.com/images/I/817WqZsxjWL._AC_SL1500_.jpg",
+      "ImagePath5": null,
+      "ZoneAreas": null,
+      "Category": null
+  },
+  {
+      "Id": 4,
+      "Name": "vivo A21+ ",
+      "Description": "هاتف ذكي رقم 4 بنظام Android، ذاكرة رام 8 جيجا، ذاكرة روم 256 جيجا - لون أسود هاتف رقم 4 بشاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش، مقاوم للماء والغبار، دعم الشحن اللاسلكي، معالج A15 بايونك.",
+      "Description2": [
+          "شاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش",
+          "معالج A15 بايونك قوي وسريع",
+          "دعم الشحن اللاسلكي والمقاومة للماء والغبار",
+          "ذاكرة رام 8 جيجا وذاكرة روم 256 جيجا",
+          "كاميرا ثلاثية بدقة 12 ميجا بكسل"
+      ],
+      "relatedproducts": [
+          3,
+          5
+      ],
+      "Price": 8400,
+      "ImagePath1": "https://m.media-amazon.com/images/I/61p1I5f5ApL._AC_SL1500_.jpg",
+      "ImagePath2": "https://m.media-amazon.com/images/I/61e4bm138yL._AC_SL1500_.jpg",
+      "ImagePath3": "https://m.media-amazon.com/images/I/71obHBf9TGL._AC_SL1500_.jpg",
+      "ImagePath4": "https://m.media-amazon.com/images/I/81tX4ilKNNL._AC_SL1500_.jpg",
+      "ImagePath5": null,
+      "ZoneAreas": null,
+      "Category": null
+  },
+  {
+      "Id": 5,
+      "Name": "Samsung note 7",
+      "Description": "هاتف ذكي رقم 5 بنظام Android، ذاكرة رام 12 جيجا، ذاكرة روم 256 جيجا - لون أسود هاتف رقم 5 بشاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش، مقاوم للماء والغبار، دعم الشحن اللاسلكي، معالج A15 بايونك.",
+      "Description2": [
+          "شاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش",
+          "معالج A15 بايونك قوي وسريع",
+          "دعم الشحن اللاسلكي والمقاومة للماء والغبار",
+          "ذاكرة رام 12 جيجا وذاكرة روم 256 جيجا",
+          "كاميرا ثلاثية بدقة 12 ميجا بكسل"
+      ],
+      "relatedproducts": [
+          4,
+          6
+      ],
+      "Price": 8500,
+      "ImagePath1": "https://m.media-amazon.com/images/I/61v0HfEqR2L._AC_SL1280_.jpg",
+      "ImagePath2": "https://m.media-amazon.com/images/I/61hjEdHaofL._AC_SL1280_.jpg",
+      "ImagePath3": "https://m.media-amazon.com/images/I/71PiFcjER7L._AC_SL1280_.jpg",
+      "ImagePath4": "https://m.media-amazon.com/images/I/71DWV9V0QhL._AC_SL1280_.jpg",
+      "ImagePath5": null,
+      "ZoneAreas": null,
+      "Category": null
+  },
+  {
+      "Id": 6,
+      "Name": "سماعة رأس",
+      "Description": "هاتف ذكي رقم 6 بنظام Android، ذاكرة رام 8 جيجا، ذاكرة روم 256 جيجا - لون أسود هاتف رقم 6 بشاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش، مقاوم للماء والغبار، دعم الشحن اللاسلكي، معالج A15 بايونك.",
+      "Description2": [
+          "شاشة سوبر ريتينا اكس دي ار بحجم 6.7 إنش",
+          "معالج A15 بايونك قوي وسريع",
+          "دعم الشحن اللاسلكي والمقاومة للماء والغبار",
+          "ذاكرة رام 8 جيجا وذاكرة روم 256 جيجا",
+          "كاميرا ثلاثية بدقة 12 ميجا بكسل"
+      ],
+      "relatedproducts": [
+          5,
+          7
+      ],
+      "Price": 8600,
+      "ImagePath1": "https://m.media-amazon.com/images/I/61zbcOwRoPL._AC_SL1500_.jpg",
+      "ImagePath2": "https://m.media-amazon.com/images/I/71b8sJNPZRL._AC_SL1500_.jpg",
+      "ImagePath3": "https://m.media-amazon.com/images/I/71G+MP96EcL._AC_SL1500_.jpg",
+      "ImagePath4": "https://m.media-amazon.com/images/I/71CeV7CMkGL._AC_SL1500_.jpg",
+      "ImagePath5": null,
+      "ZoneAreas": null,
+      "Category": null
+  }
+]
